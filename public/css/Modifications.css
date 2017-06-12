@@ -1,0 +1,75 @@
+.list-unstyled {
+
+    display: flex;
+    margin-top: 10px;
+}
+.list-unstyled li{
+
+    margin-right: 25px;
+}
+
+.fa-facebook-f {
+    color: black;
+}
+
+.barely-visible{
+    opacity: 0.3;
+}
+
+.semi-visible{
+    opacity: 0.6;
+}
+
+.navbar-default{
+    background-color: rgba(248, 248, 248, 0.85);
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+
+    background-color: rgba(231, 231, 231, 0.85);
+}
+
+.right-nav {
+    float: right;
+    margin-top: 10px;
+}
+
+a.tel {
+    color: black;
+}
+
+.contact-li{
+    padding-right: 10px;
+    border-right: solid 1px;
+    border-color: #000;
+}
+
+.contact-li:first-child{
+    padding-right: 20px;
+}
+
+.contact-li:last-child {
+    border-style: none;
+}
+#content {
+
+    margin-top : 50px;
+}
+#contactform {
+
+    margin-top: 200px;
+}
+
+.tall-text{
+    height: 150px;
+    width: 500px;
+}
+
+.email {
+    width: 250px;
+}
+
+#content {
+
+    min-height: 600px;
+}
